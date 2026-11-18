@@ -15,7 +15,7 @@
 
 ## 01 / About
 
-<img src="assets/foto.jpg" alt="Santika Kumara" align="right" width="230" />
+<img src="assets/foto.png" alt="Santika Kumara" align="right" width="230" />
 
 **Full-Stack Developer** yang menghadirkan produk digital yang responsif dan terarsitektur rapi, dari desain awal hingga tahap deployment.
 
