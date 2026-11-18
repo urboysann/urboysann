@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="168" viewBox="0 0 480 168" role="img" aria-label="PNB EAGLES Season 9">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#58a6ff"/><stop offset="1" stop-color="#58a6ff" stop-opacity="0"/></linearGradient>
+    <radialGradient id="o" cx="1" cy="0" r="1"><stop offset="0" stop-color="#58a6ff" stop-opacity="0.22"/><stop offset="1" stop-color="#58a6ff" stop-opacity="0"/></radialGradient>
+    <clipPath id="f"><rect width="480" height="168" rx="14"/></clipPath>
+  </defs>
+  <g clip-path="url(#f)">
+    <rect width="480" height="168" fill="#0d1117"/>
+    <rect width="480" height="168" fill="url(#o)"/>
+    <rect width="480" height="3" fill="url(#g)"/>
+    <text x="456" y="78" text-anchor="end" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-weight="900" font-size="72" fill="#58a6ff" fill-opacity="0.10">01</text>
+    <text x="28" y="40" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" letter-spacing="1.5" fill="#58a6ff">PRODUCT</text>
+    <text x="28" y="72" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-weight="700" font-size="23" fill="#f0f6fc">PNB EAGLES Season 9</text>
+    <text x="28" y="97" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#8b949e">Website turnamen E-Sports</text>
+    <g><rect x="28" y="118" width="72" height="26" rx="13" fill="#58a6ff" fill-opacity="0.12" stroke="#58a6ff" stroke-opacity="0.45"/>
+<text x="64.0" y="135" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#c9d1d9">Next.js</text>
+<animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.0s" fill="freeze"/></g><g><rect x="108" y="118" width="79" height="26" rx="13" fill="#58a6ff" fill-opacity="0.12" stroke="#58a6ff" stroke-opacity="0.45"/>
+<text x="147.5" y="135" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#c9d1d9">Tailwind</text>
+<animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.0s" fill="freeze"/></g><g><rect x="195" y="118" width="94" height="26" rx="13" fill="#58a6ff" fill-opacity="0.12" stroke="#58a6ff" stroke-opacity="0.45"/>
+<text x="242.0" y="135" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#c9d1d9">TypeScript</text>
+<animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.0s" fill="freeze"/></g>
+  </g>
+  <rect x="0.5" y="0.5" width="479" height="167" rx="14" fill="none" stroke="#30363d"/>
+</svg>
